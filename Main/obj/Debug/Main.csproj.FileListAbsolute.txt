@@ -1,0 +1,6 @@
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\bin\Debug\Main.exe.config
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\bin\Debug\Main.exe
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\bin\Debug\Main.pdb
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\obj\Debug\Main.exe
+C:\Users\sunshy\Desktop\Money\Reshaem\(25.02) C# Калькулятор\Calc\Main\obj\Debug\Main.pdb
